@@ -16,7 +16,7 @@ export const Footer: React.FC = () => {
               </div>
               <div>
                 <span className="text-white font-bold text-xl">ग्रामपंचायत सोनुर्ली</span>
-                <p className="text-white/70 text-sm">Gram Panchayat Rama</p>
+                <p className="text-white/70 text-sm">Gram Panchayat Sonurli</p>
               </div>
             </div>
             <p className="text-white/80 max-w-sm mb-4">
