@@ -50,7 +50,7 @@ export const CONTACT_INFO = {
   address: "मु पोस्ट सोनुर्ली, ता. जिल्हा नागपूर, महाराष्ट्र - 441106",
   phone: "(+91) 712-XXX-XXXX",
   email: "ramagp639@gmail.com",
-  administrator: "श्री. प्रमोद मालापुरे",
+  administrator: "श्री. गोपाल वडे",
   gramSevak: "सौ. सुषमा स. मोरे",
 };
 
@@ -120,7 +120,7 @@ export const SERVICES: Service[] = [
 export const TEAM_MEMBERS = [
   {
     id: 1,
-    name: "श्री. प्रमोद मालापुरे",
+    name: "श्री. गोपाल वडे",
     role: "प्रशासक",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=300",
   },
