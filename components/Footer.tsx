@@ -9,7 +9,7 @@ export const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           {/* Brand */}
-          <div className="col-span-1 md:col-span-2">
+          <div className="col-span-1">
             <div className="flex items-center gap-3 mb-4">
               <div className="w-12 h-12 bg-white rounded-full flex items-center justify-center">
                 <span className="text-brand-500 font-bold text-lg">GP</span>
@@ -66,6 +66,22 @@ export const Footer: React.FC = () => {
                 </a>
               </li>
             </ul>
+          </div>
+
+          {/* Map */}
+          <div>
+            <h3 className="text-white font-semibold mb-4">नकाशा</h3>
+            <div className="rounded-xl overflow-hidden h-48 bg-white/10">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3727.3665274707896!2d79.00450975075648!3d20.89756842579915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4986e3751cc7b%3A0xebd4b670727120ae!2sSonurli%2C%20Maharashtra%20441108!5e0!3m2!1sen!2sin!4v1768320844386!5m2!1sen!2sin"
+                width="100%"
+                height="100%"
+                style={{ border: 0 }}
+                allowFullScreen={true}
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+              ></iframe>
+            </div>
           </div>
         </div>
 

@@ -96,7 +96,7 @@ export const ContactPage: React.FC = () => {
                                 {/* Google Map */}
                                 <div className="bg-gray-50 p-2 rounded-2xl border border-gray-100 h-64 relative overflow-hidden group">
                                     <iframe
-                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119066.41705664057!2d79.00248437920405!3d21.161186712349074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4c0a5d319085f%3A0x952405a76100eb78!2sNagpur%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1705423600000!5m2!1sen!2sin"
+                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3727.3665274707896!2d79.00450975075648!3d20.89756842579915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4986e3751cc7b%3A0xebd4b670727120ae!2sSonurli%2C%20Maharashtra%20441108!5e0!3m2!1sen!2sin!4v1768320844386!5m2!1sen!2sin"
                                         width="100%"
                                         height="100%"
                                         style={{ border: 0 }}

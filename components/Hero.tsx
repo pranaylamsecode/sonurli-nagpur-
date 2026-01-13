@@ -67,7 +67,7 @@ export const Hero: React.FC = () => {
             </Button>
           </Link>
           <Link to="/about">
-            <Button variant="outline" size="lg" className="w-full sm:w-auto border-brand-500 text-brand-500 hover:bg-brand-50">
+            <Button size="lg" className="w-full sm:w-auto bg-emerald-500 hover:bg-emerald-600 text-white shadow-lg shadow-emerald-500/30 group">
               {HERO_DATA.ctaSecondary}
               <ArrowRight className="ml-2 w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </Button>
