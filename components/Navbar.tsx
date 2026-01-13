@@ -57,7 +57,7 @@ export const Navbar: React.FC = () => {
                 </Link>
               ))}
 
-              <a href="tel:+917120000000">
+              <a href="tel:+918830056484">
                 <Button variant="primary" size="sm" className="flex items-center gap-2">
                   <Phone className="w-4 h-4" />
                   संपर्क करा
