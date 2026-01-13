@@ -37,7 +37,7 @@ export const Navbar: React.FC = () => {
             </div>
             <div className="hidden sm:block">
               <span className="text-brand-500 font-bold text-xl">ग्रामपंचायत सोनुर्ली</span>
-              <p className="text-xs text-gray-500">Gram Panchayat Rama</p>
+              <p className="text-xs text-gray-500">Gram Panchayat Sonurli</p>
             </div>
           </Link>
 

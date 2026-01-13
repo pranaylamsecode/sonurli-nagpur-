@@ -49,7 +49,7 @@ export const VILLAGE_STATS = [
 export const CONTACT_INFO = {
   address: "मु पोस्ट सोनुर्ली, ता. जिल्हा नागपूर, महाराष्ट्र - 441106",
   phone: "(+91) 712-XXX-XXXX",
-  email: "ramagp639@gmail.com",
+  email: "sonurli@gmail.com",
   administrator: "श्री. गोपाल वडे",
   gramSevak: "सौ. सुषमा स. मोरे",
 };
